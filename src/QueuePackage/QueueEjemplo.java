@@ -8,8 +8,6 @@ public class QueueEjemplo {
 
         Queue<Integer> cola = new LinkedList<>();
         Queue<Integer> cola2 = new LinkedList<>();
-
-
         System.out.println(cola);
         /*
         * add()
@@ -85,8 +83,6 @@ public class QueueEjemplo {
             System.out.println(e);
             System.out.println("Error no hay elementos en la cola");
         }
-
         System.out.println(cola);
-
     }
 }

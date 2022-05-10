@@ -117,7 +117,5 @@ public class ArrayListEjemplo  {
         arrayList.trimToSize();
         System.out.println(arrayList);
 
-
-
     }
 }

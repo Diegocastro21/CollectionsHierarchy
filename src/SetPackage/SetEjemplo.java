@@ -183,13 +183,5 @@ public class SetEjemplo {
                 arreglo) {
             System.out.println("[ "+i+" ]");
         }
-
-
-
-
-
-
-
-
     }
 }
